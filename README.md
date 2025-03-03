@@ -1,6 +1,35 @@
 # FMCG-Analysis
 
-## 1. Outlet & Regional Performance
+## 1. Sales Overview
+![Sales Overview](Sales.png)
+
+### Overview
+This dashboard provides a high-level view of sales performance, highlighting key metrics and trends across different categories, regions, and outlet types.
+
+### Key Performance Indicators (KPIs)
+- **Total Sales Revenue:** 256.11M
+- **Total Sales Growth YOY:** 25.32%
+- **Average Order Value (AOV):** 1.17K
+
+### Visual Breakdown
+1. **Sales Revenue by Zone:**
+   - Sales performance across different geographic zones (Delta, Upper, Cairo/Giza).
+   - Delta and Upper regions show the highest revenue.
+
+2. **Top-Selling Categories by Outlet Type:**
+   - Comparison of Detergent, Shower Gel, and Soap sales in different outlet types.
+   - Detergent is the top-selling category across all outlet types.
+
+3. **Total Sales Revenue by Product Category:**
+   - Breakdown of sales contribution by Detergent, Soap, and Shower Gel.
+   - Detergent has the highest sales revenue, followed by Soap and Shower Gel.
+
+4. **Monthly Sales Trend:**
+   - Sales revenue trend across months.
+   - A peak in March followed by a dip and steady performance through the year.
+
+
+## 2. Outlet & Regional Performance
 
 ![Outlet & Regional Performance](Outlets.png)
 
@@ -19,7 +48,7 @@ This dashboard provides insights into the regional and outlet performance metric
 4. **Total Sales Revenue by Warehouse Name:** Heatmap visualization of revenue per warehouse.
 ---
 
-## 2. Product Performance
+## 3. Product Performance
 
 ![Product Performance](Products.png)
 
@@ -41,7 +70,7 @@ This dashboard focuses on product sales performance, highlighting the best-selli
 
 ---
 
-## 3. Representative Performance
+## 4. Representative Performance
 
 ![Representative Performance](Reps.png)
 
