@@ -43,7 +43,7 @@ This dashboard focuses on product sales performance, highlighting the best-selli
 
 ## 3. Representative Performance
 
-![Representative Performance](Reps.png)
+![Representative Performance]([Reps.png](https://github.com/mo-hamada21/FMCG-Analysis/blob/main/Reps.png))
 
 ### Overview
 This dashboard provides insights into sales representatives' performance, focusing on conversion rates, target achievement, and total sales revenue per representative.
